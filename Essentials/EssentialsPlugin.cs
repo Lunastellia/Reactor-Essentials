@@ -39,9 +39,9 @@ namespace Essentials
 #else
                 string txt = text.text;
 #endif
-
+                //Change for Challenger version.
                 int index = txt.IndexOf('\n');
-                txt = txt.Insert(index == -1 ? txt.Length - 1 : index, "\nEssentials " + typeof(EssentialsPlugin).Assembly.GetCustomAttribute<AssemblyInformationalVersionAttribute>().InformationalVersion);
+                txt = txt.Insert(index == -1 ? txt.Length - 1 : index, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n" + typeof(EssentialsPlugin).Assembly.GetCustomAttribute<AssemblyInformationalVersionAttribute>().InformationalVersion);
 
 #if S20201209 || S20210305 || S202103313
                 text.Text = txt;
