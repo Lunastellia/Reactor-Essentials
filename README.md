@@ -1,3 +1,9 @@
+# Fork Essentials project for ChallengerMod
+
+- This version of essential has changes for ChallengerMod. 
+
+-Essentials by  DorCoMaNdO/Reactor-Essentials : https://github.com/DorCoMaNdO/Reactor-Essentials
+
 # Essentials
 Essentials is a modding library for Among Us with APIs to speed up and ease development, with the goal of improving mod compatibility.
 
